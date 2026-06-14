@@ -1,6 +1,6 @@
 ﻿# D-NSGA2Plus
 
-> Public C++ implementation of **D-NSGA2+**, a diversity-enhanced NSGA-II algorithm for multi-objective intercity ride-sharing routing optimization.
+> Public C++ implementation of **Intercity Ride-sharing Routing: A Diversity-enhanced Non-dominated Sorting Genetic Algorithm II**, a diversity-enhanced NSGA-II algorithm for multi-objective intercity ride-sharing routing optimization.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Language](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)](#installation)
